@@ -1,0 +1,19 @@
+.product{
+    display: flex;
+    column-gap: 10px;
+    border-bottom: 1px solid gray;
+    padding: 5px 0;
+    margin-left: 20px;
+}
+.product div h4{
+    color: blue;
+    font-weight: 500;
+}
+.button{
+    background-color: goldenrod;
+    border: 1px solid gray;
+    padding: 5px 80px;
+    font-size:15px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}

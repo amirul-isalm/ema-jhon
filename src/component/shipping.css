@@ -1,0 +1,11 @@
+.shippingFrom{
+    margin: 30px 150px;
+}
+.shippingFrom input{
+    display: block;
+    margin: 10px ;
+    padding: 5px;
+    border-radius: 20px;
+    width: 50%;
+
+}
